@@ -1,7 +1,7 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQEFTJ6Znv9bdA/profile-displaybackgroundimage-shrink_350_1400/0/1644063567965?e=1668643200&v=beta&t=kVgQHJ0rvfFLnJ2SJSIYUp3zOBGRFcTxYF2QEcU_Ot4)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Alisher</h1>
 <h3 align="center">I am a novice front-end engineer | JavaScript developer from Kazakhstan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU)"/>
 
 - 🌱 I’m currently learning **React, Redux, JavaScript, Express, SQL, Ethical Hacking, Object-Oriented Programming, Algorithms and Data Structure**
 
