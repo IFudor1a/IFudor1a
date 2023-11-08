@@ -3,7 +3,7 @@
 <h3 align="center">I am a Front-end developer || JavaScript developer from Kazakhstan</h3>
 
 - 🌱 I’m currently applying  **React, Redux, JavaScript, Fastify, Express, SQL, TypeScript, Object-Oriented Programming, Algorithms and Data Structure**
-
+- My current position is Leading Specialist at State Government Service
 - 📫 How to reach me **alisher.berik222@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
