@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQEFTJ6Znv9bdA/profile-displaybackgroundimage-shrink_350_1400/0/1644063567965?e=1668643200&v=beta&t=kVgQHJ0rvfFLnJ2SJSIYUp3zOBGRFcTxYF2QEcU_Ot4)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Alisher</h1>
 <h3 align="center">I am a Front-end developer || JavaScript developer from Kazakhstan</h3>
 
