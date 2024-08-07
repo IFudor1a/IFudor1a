@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Alisher</h1>
-<h3 align="center">I am a Front-end developer || JavaScript developer from Kazakhstan</h3>
+<h3 align="center">I am a Software Engineer || JavaScript developer from Kazakhstan</h3>
 
 - 🌱 I’m currently applying  **React, Redux, JavaScript, Fastify, Express, SQL, TypeScript, Unit testing, Screenshot testing, Storybook, Jest, React Testing Library, HTML, CSS, Styled Components, Linux, Nginx, Docker Object-Oriented Programming, Algorithms and Data Structure**
 - My current position is as a Leading Specialist at the State Government Service
